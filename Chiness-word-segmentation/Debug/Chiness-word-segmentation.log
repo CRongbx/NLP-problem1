@@ -1,0 +1,5 @@
+﻿  ChineseSeg.cpp
+e:\working\homework\3_1\nlp\chiness-word-segmentation\chineseseg.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\working\homework\3_1\nlp\chiness-word-segmentation\chineseseg.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+  Chiness-word-segmentation.vcxproj -> E:\WORKING\Homework\3_1\NLP\Chiness-word-segmentation\Debug\Chiness-word-segmentation.exe
+  Chiness-word-segmentation.vcxproj -> E:\WORKING\Homework\3_1\NLP\Chiness-word-segmentation\Debug\Chiness-word-segmentation.pdb (Full PDB)
